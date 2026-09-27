@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 420" width="100%" height="100%">
+  <!-- Left: Ascending Growth Chart Symbol with 4 Bars & Diagonal Rising Arrow -->
+  <g fill="#00843D">
+    <!-- Rising Arrow Shaft & Head -->
+    <polygon points="26,244 266,74 256,96 280,94 300,114 322,22 222,50 240,70 254,70" />
+    <!-- 4 Ascending Vertical Columns -->
+    <rect x="28" y="270" width="44" height="74" rx="3" />
+    <rect x="94" y="210" width="44" height="134" rx="3" />
+    <rect x="160" y="150" width="44" height="194" rx="3" />
+    <rect x="226" y="90" width="44" height="254" rx="3" />
+  </g>
+
+  <!-- Right: Bold Navy ONE SOLUTION Wordmark -->
+  <!-- Top Line: ONE -->
+  <text
+    x="315"
+    y="180"
+    font-family="'Plus Jakarta Sans', 'Arial Black', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-weight="900"
+    font-size="160"
+    fill="#0A1D37"
+    letter-spacing="-1"
+  >ONE</text>
+
+  <!-- Middle Line: SOLUTION -->
+  <text
+    x="315"
+    y="330"
+    font-family="'Plus Jakarta Sans', 'Arial Black', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-weight="900"
+    font-size="136"
+    fill="#0A1D37"
+    letter-spacing="-0.5"
+  >SOLUTION</text>
+
+  <!-- Bottom Line: PLAN TODAY. BUILD TOMORROW. -->
+  <text
+    x="28"
+    y="398"
+    font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-weight="800"
+    font-size="33"
+    fill="#00843D"
+    letter-spacing="5"
+  >PLAN TODAY. BUILD TOMORROW.</text>
+</svg>

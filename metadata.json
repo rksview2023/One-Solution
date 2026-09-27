@@ -1,0 +1,8 @@
+{
+  "name": "ONE SOLUTION - Plan Today & Build Tomorrow",
+  "description": "Mutual Fund Distribution, SIP Planning, Goal-Based Investment Planning, Wealth Creation and Retirement Planning by One Solution Investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
